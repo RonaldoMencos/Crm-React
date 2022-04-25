@@ -1,3 +1,20 @@
 {
-    "clientes": []
+  "clientes": [
+    {
+      "nombre": "Oscar Ronaldo",
+      "empresa": "Gentrac",
+      "email": "omencos@gmail.com",
+      "telefono": "5575 9219",
+      "notas": "Nuevo Cliente",
+      "id": 1
+    },
+    {
+      "nombre": "Oscar Ronaldo Mencos",
+      "empresa": "Gentrac 1",
+      "email": "omencos@gmail.com",
+      "telefono": "5575 9219",
+      "notas": "Nuevo Cliente 1",
+      "id": 2
+    }
+  ]
 }
